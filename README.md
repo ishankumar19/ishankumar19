@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Ishant Kumar!
 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding GIF">
+
 Welcome to my GitHub profile! I'm a passionate and curious learner who enjoys building, experimenting, and constantly improving.
 
 ## 🚀 About Me
