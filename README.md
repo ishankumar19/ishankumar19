@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ishant Kumar!
 
-<img src="https://media.giphy.com/media/KcWQm0zZ5eXEQ7YBGr/giphy.gif" width="100%" alt="Kyōjurō Rengoku GIF">
+![Kyōjurō Rengoku Banner](https://i.imgur.com/ljTGlhD.jpg)
 
 > _“Set your heart ablaze.” — Kyōjurō Rengoku_
 
