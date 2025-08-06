@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ishant Kumar!
 
-![Kyōjurō Rengoku Banner](https://i.imgur.com/ljTGlhD.jpg)
+![Coder at Work](https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1350&q=80)
 
 > _“Set your heart ablaze.” — Kyōjurō Rengoku_
 
