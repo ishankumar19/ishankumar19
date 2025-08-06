@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Ishant Kumar!
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding GIF">
+<img src="https://media.giphy.com/media/KcWQm0zZ5eXEQ7YBGr/giphy.gif" width="100%" alt="Kyōjurō Rengoku GIF">
+
+> _“Set your heart ablaze.” — Kyōjurō Rengoku_
 
 Welcome to my GitHub profile! I'm a passionate and curious learner who enjoys building, experimenting, and constantly improving.
 
@@ -18,8 +20,9 @@ I'm always open to collaboration and eager to learn more!
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 
@@ -29,7 +32,7 @@ I'm always open to collaboration and eager to learn more!
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ishamt-kumar)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ishant-kumar)  
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ishansingh196055@gmail.com)
 
 ---
