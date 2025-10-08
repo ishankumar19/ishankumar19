@@ -29,6 +29,16 @@ I'm always open to collaboration and eager to learn more!
 ## 📈 GitHub Stats
 
 ![Ishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishankumar19&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishankumar19&layout=compact&theme=radical)
+
+
+## 📂 Featured Projects
+
+- [BIHAR-BOOK-CENTRE](https://github.com/ishankumar19/BIHAR-BOOK-CENTRE): A Python-based billing system for a bookstore.
+- [GRADING-SYSTEM](https://github.com/ishankumar19/GRADING-SYSTEM): C program to calculate and display student grades.
+
+---
+
 
 ## 🔗 Connect with Me
 
