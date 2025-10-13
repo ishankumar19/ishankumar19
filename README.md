@@ -1,6 +1,13 @@
 # 👋 Hi, I'm Ishant Kumar!
 
-![Coder at Work](https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1350&q=80)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:00ccff&height=140&section=header&text=I%20S%20H%20𝚨%20N%20T&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+</p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=🌟+Welcome+To+My+GitHub+Profile!+🌟;✨+Coding+Explorer+On+A+Journey!+✨;🚀+Let's+Create+Something+Extraordinary!+🚀"/>
+</div>
+
 
 > _“Set your heart ablaze.” — Kyōjurō Rengoku_
 
