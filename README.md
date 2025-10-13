@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ishant Kumar!
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:00ccff&height=140&section=header&text=I%20S%20H%20𝚨%20N%20T&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:00ccff&height=140&section=header&text=I%20S%20H%20𝚨%20N%20T%20K%20U%20M%20A%20R&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
 </p>
 
 <div align="center">
