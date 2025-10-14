@@ -38,6 +38,15 @@ I'm always open to collaboration and eager to learn more!
 ![Ishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishankumar19&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishankumar19&layout=compact&theme=radical)
 
+## 💻 My Achievements 
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ishankumar19&theme=radical&no-frame=true&margin-w=10&margin-h=10"/>
+</p>
+
+---
+
+
 
 ## 📂 Featured Projects
 
