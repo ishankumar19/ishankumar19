@@ -51,7 +51,7 @@ I'm always open to collaboration and eager to learn more!
 
 ## 📂 Featured Projects
 
-- [BIHAR-BOOK-CENTRE](https://github.com/ishankumar19/BIHAR-BOOK-CENTRE): A Python-based billing system for a bookstore.
+- [BIHAR-BOOK-CENTRE](https://github.com/ishankumar19/BIHAR-BOOK-CENTRE): A Python-based Management system for a bookstore.
 - [GRADING-SYSTEM](https://github.com/ishankumar19/GRADING-SYSTEM): C program to calculate and display student grades.
 
 ---
