@@ -61,6 +61,7 @@ I'm always open to collaboration and eager to learn more!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ishant-kumar-b2b78b388/)  
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ishansingh196055@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=round&logo=Telegram&logoColor=white)](https://t.me/ishantkumar09)
 
 ---
 
