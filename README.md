@@ -35,15 +35,15 @@ I'm always open to collaboration and eager to learn more!
 
 ## 📈 GitHub Stats
 
-![Ishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishankumar19&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishankumar19&layout=compact&theme=radical)
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishankumar19&theme=github_dark" />
+![Ishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishankumar19&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishankumar19&layout=compact&theme=onedark)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishankumar19&theme=tokyonight" />
 
 ## 💻 My Achievements 
+![GitHub Trophies](https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=ishankumar19&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ishankumar19&theme=radical&no-frame=true&margin-w=10&margin-h=10"/>
-</p>
+
+
 
 ---
 
