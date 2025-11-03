@@ -32,6 +32,11 @@ I'm always open to collaboration and eager to learn more!
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+[![Python IDLE](https://img.shields.io/badge/Python-IDLE-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Anaconda](https://img.shields.io/badge/Anaconda-Platform-44A833?logo=anaconda&logoColor=white)](https://www.anaconda.com/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Git Bash](https://img.shields.io/badge/Git-Bash-black?logo=git&logoColor=white)](https://git-scm.com/)
+
 
 ## 📈 GitHub Stats
 
