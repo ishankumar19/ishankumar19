@@ -1,17 +1,16 @@
 # 👋 Hi, I'm Ishant Kumar!
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:00ccff&height=140&section=header&text=I%20S%20H%20𝚨%20N%20T%20K%20U%20M%20A%20R&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,50:ff00ff,100:8000ff&height=140&section=header&text=I%20S%20H%20𝚨%20N%20T%20K%20U%20M%20A%20R&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=🌟+Welcome+To+My+GitHub+Profile!+🌟;✨+Coding+Explorer+On+A+Journey!+✨;🚀+Let's+Create+Something+Extraordinary!+🚀"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=25&pause=10&color=FF00FF&center=true&vCenter=true&width=780&lines=👾+Welcome+To+My+Cyber+Space!;🎮+Leveling+Up+In+Code+And+Life!;🚀+Building+Digital+Realms+Of+Tomorrow!;💻+Play.+Code.+Conquer.+Repeat!"/>
 </div>
-
 
 > _“Set your heart ablaze.” — Kyōjurō Rengoku_
 
-Welcome to my GitHub profile! I'm a passionate and curious learner who enjoys building, experimenting, and constantly improving.
+Welcome to my GitHub profile! I'm a passionate and curious learner who enjoys building, experimenting and constantly improving.
 
 ## 🚀 About Me
 
