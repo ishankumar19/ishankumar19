@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate and curious learner who enjoys bu
 ## 🚀 About Me
 
 🎓 I'm currently learning and building projects using:
-- 💻 Python, Flask, HTML/CSS, JavaScript
+- 💻 Python, Flask, HTML/CSS, Java
 - 🧠 Logic building and problem solving
 - ⚙️ Backend development and automation
 
@@ -27,7 +27,7 @@ I'm always open to collaboration and eager to learn more!
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
