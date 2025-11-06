@@ -44,7 +44,7 @@ I'm always open to collaboration and eager to learn more!
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishankumar19&theme=tokyonight" />
 
 ## 💻 My Achievements 
-![GitHub Trophies](https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=ishankumar19&theme=tokyonight)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ishankumar19&theme=tokyonight)
 
 
 
