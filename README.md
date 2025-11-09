@@ -1,72 +1,105 @@
-# 👋 Hi, I'm Ishant Kumar!
-
+<!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,50:ff00ff,100:8000ff&height=140&section=header&text=I%20S%20H%20𝚨%20N%20T%20K%20U%20M%20A%20R&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,50:ff00ff,100:8000ff&height=200&section=header&text=I%20S%20H%20𝚨%20N%20T%20K%20U%20M%20A%20R&fontSize=55&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=25&pause=10&color=FF00FF&center=true&vCenter=true&width=780&lines=👾+Welcome+To+My+Cyber+Space!;🎮+Leveling+Up+In+Code+And+Life!;🚀+Building+Digital+Realms+Of+Tomorrow!;💻+Play.+Code.+Conquer.+Repeat!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=26&pause=1000&color=FF00FF&center=true&vCenter=true&width=800&lines=👾+Welcome+To+My+Cyber+Space!;🚀+Coding+The+Future+Bit+By+Bit!;🎯+Backend+Dev+|+Automation+|+Problem+Solver;🔥+Play.+Code.+Conquer.+Repeat!" />
 </div>
 
-> _“Set your heart ablaze.” — Kyōjurō Rengoku_
+> _“Set your heart ablaze.” — Kyōjurō Rengoku_ 🔥  
+> _"Dream in code, live in logic."_ 🧠  
 
-Welcome to my GitHub profile! I'm a passionate and curious learner who enjoys building, experimenting and constantly improving.
+---
 
 ## 🚀 About Me
 
-🎓 I'm currently learning and building projects using:
-- 💻 Python, Flask, HTML/CSS, Java
-- 🧠 Logic building and problem solving
-- ⚙️ Backend development and automation
+💡 I’m **Ishant Kumar**, a passionate developer who thrives on creating practical, automated, and smart digital solutions.  
+🌱 Currently exploring:  
+- 🧩 **Python**, **Flask**, **C**, and **Java**  
+- ⚙️ **Backend Development** & **Automation Tools**  
+- 📊 **Data Visualization** and **Logic Optimization**
 
-I'm always open to collaboration and eager to learn more!
-
-## 🛠️ Languages and Tools I Use
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
-[![Python IDLE](https://img.shields.io/badge/Python-IDLE-blue?logo=python&logoColor=white)](https://www.python.org/)
-[![Anaconda](https://img.shields.io/badge/Anaconda-Platform-44A833?logo=anaconda&logoColor=white)](https://www.anaconda.com/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)](https://jupyter.org/)
-[![Git Bash](https://img.shields.io/badge/Git-Bash-black?logo=git&logoColor=white)](https://git-scm.com/)
-
-
-## 📈 GitHub Stats
-
-![Ishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishankumar19&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishankumar19&layout=compact&theme=onedark)
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishankumar19&theme=tokyonight" />
-
-## 💻 My Achievements 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ishankumar19&theme=tokyonight)
-
-
-
+🛠️ Always learning, building, and collaborating to turn imagination into innovation.  
 
 ---
 
+## ⚙️ Tech Arsenal
 
-
-## 📂 Featured Projects
-
-- [BIHAR-BOOK-CENTRE](https://github.com/ishankumar19/BIHAR-BOOK-CENTRE): A Python-based Management system for a bookstore.
-- [GRADING-SYSTEM](https://github.com/ishankumar19/GRADING-SYSTEM): C program to calculate and display student grades.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,java,c,html,mysql,git,vscode,anaconda,jupyter,github,bash&perline=8&theme=dark"/>
+</p>
 
 ---
 
+## 📈 GitHub Intelligence Dashboard
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ishankumar19&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" height="165px"/>  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ishankumar19&theme=tokyonight&hide_border=true&border_radius=15" height="165px"/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishankumar19&layout=compact&theme=onedark&hide_border=true&border_radius=15" height="165px"/>  
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishankumar19&theme=tokyonight" alt="Profile Summary" width="95%"/>
+
+</div>
+
+---
+
+## 🏆 Achievements & Highlights
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ishankumar19&theme=tokyonight&margin-w=10&no-frame=true&row=1&column=6" alt="Trophies"/>
+</p>
+
+---
+
+## 💼 Featured Projects
+
+🎯 [**BIHAR-BOOK-CENTRE**](https://github.com/ishankumar19/BIHAR-BOOK-CENTRE)  
+> 📚 Python-based Management System for bookstores — efficient inventory and billing automation.  
+
+📘 [**GRADING-SYSTEM**](https://github.com/ishankumar19/GRADING-SYSTEM)  
+> 🎓 C-based program that dynamically calculates student grades and performance.
+
+⚡ _More projects coming soon... stay tuned for digital magic!_ ✨
+
+---
+
+## 🧠 My Coding Stats (Real-Time)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishankumar19&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+---
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ishant-kumar-b2b78b388/)  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ishansingh196055@gmail.com)
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=round&logo=Telegram&logoColor=white)](https://t.me/ishantkumar09)
+<p align="center">
+  <a href="https://www.linkedin.com/in/ishant-kumar-b2b78b388/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ishansingh196055@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/ishantkumar09"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+</p>
 
 ---
 
-> _“The best way to predict the future is to create it.” – Abraham Lincoln_
+## 🧩 Fun Zone
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Code%20Mode-ON-green?style=for-the-badge&logo=matrix&logoColor=white">
+  <img src="https://img.shields.io/badge/Coffee-Fuel-orange?style=for-the-badge&logo=buymeacoffee&logoColor=white">
+  <img src="https://img.shields.io/badge/OS-WINDOWS-black?style=for-the-badge&logo=WINDOWS&logoColor=white">
+</div>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it.&author=Abraham%20Lincoln"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8000ff,50:ff00ff,100:ff0000&height=150&section=footer"/>
+</p>
