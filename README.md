@@ -27,7 +27,7 @@
 ## ⚙️ Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,java,c,html,mysql,git,vscode,anaconda,jupyter,github,bash&perline=8&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,flask,java,c,html,mysql,git,vscode,anaconda,jupyter,github&perline=8&theme=dark"/>
 </p>
 
 ---
