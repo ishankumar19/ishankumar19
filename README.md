@@ -74,12 +74,18 @@
 
 ---
 
+
+
+
+
 ## 🔗 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ishant-kumar-b2b78b388/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:ishansingh196055@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://t.me/ishantkumar09"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/ishantkumar019"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+
 </p>
 
 ---
