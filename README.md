@@ -33,27 +33,19 @@
 ---
 
 ## 📈 GitHub Intelligence Dashboard
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ishankumar19&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" height="165px"/>  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ishankumar19&theme=tokyonight&hide_border=true&border_radius=15" height="165px"/>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishankumar19&layout=compact&theme=onedark&hide_border=true&border_radius=15" height="165px"/>  
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishankumar19&theme=tokyonight" alt="Profile Summary" width="95%"/>
-
-</div>
-
----
-
-## 🏆 Achievements & Highlights
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ishankumar19&theme=tokyonight&margin-w=10&no-frame=true&row=1&column=6" alt="Trophies"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ishankumar19&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishankumar19&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishankumar19&theme=tokyo-night"/>
+  
 </p>
 
 ---
 
+## 🏆 Achievements & Highlights
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ishankumar19&theme=tokyonight&cache_seconds=3600"/>
+</p>
 ## 💼 Featured Projects
 
 🎯 [**BIHAR-BOOK-CENTRE**](https://github.com/ishankumar19/BIHAR-BOOK-CENTRE)  
