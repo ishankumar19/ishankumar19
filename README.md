@@ -36,7 +36,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ishankumar19&show_icons=true&theme=tokyonight" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishankumar19&layout=compact&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishankumar19&theme=tokyo-night"/>
+ 
   
 </p>
 
