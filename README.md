@@ -41,7 +41,7 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishankumar19&layout=compact&theme=dracula&hide_border=true" width="40%"/>
 </p>
----
+
 
 ### 🏆 Featured Projects
 
@@ -61,7 +61,7 @@
     <td>Dynamic student grading and performance calculation program</td>
     <td>C</td>
   </tr>
-  <!-- You can easily add more rows later -->
+  
 </table>
 
 🔥 _More exciting projects coming soon... stay tuned!_ ✨
