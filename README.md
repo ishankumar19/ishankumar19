@@ -18,7 +18,7 @@
 💡 I'm **Ishant Kumar**, a passionate developer who loves building practical, automated and smart digital solutions.  
 🌱 Currently exploring:
 
-- 🧩 **Python** · **Flask** · **C** · **C++** · **Java**
+- 🧩 **Python** · **Flask** · **C** · **C++** 
 - ⚙️ Backend Development & Automation Tools
 - 📊 Data Visualization & Logic Optimization
 
@@ -29,7 +29,7 @@
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,html,flask,mysql,git,github,vscode,anaconda,jupyter&perline=8&theme=dark" alt="tech stack icons"/>
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,html,flask,mysql,git,github,vscode,anaconda,jupyter&perline=8&theme=dark" alt="tech stack icons"/>
 </p>
 
 ---
