@@ -57,7 +57,7 @@
     <td>Python</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/ishankumar19/authentication-backend"><b>log-in-page</b></a></td>
+    <td><a href="https://github.com/ishankumar19/authentication-backend"><b>Authentication System</b></a></td>
     <td>Secure authentication system and user login page</td>
     <td>Python</td>
   </tr>
